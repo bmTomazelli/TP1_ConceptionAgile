@@ -1,0 +1,178 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2" pages="4">
+  <diagram name="Story map 1" id="eIzVDYgFX7L7uVy5eYkq">
+    <mxGraphModel dx="838" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-0" />
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-1" parent="O-Kg7pe8ydQeIRBrNAin-0" />
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="O-Kg7pe8ydQeIRBrNAin-1" vertex="1">
+          <mxGeometry x="3" y="-1169" width="820" height="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-3" value="Persona: Jean Roi, citoyen aidant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="O-Kg7pe8ydQeIRBrNAin-1" vertex="1">
+          <mxGeometry x="30" y="-1150" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-4" value="Objectifs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="O-Kg7pe8ydQeIRBrNAin-1" vertex="1">
+          <mxGeometry x="50" y="-1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-5" value="Épopées" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="O-Kg7pe8ydQeIRBrNAin-1" vertex="1">
+          <mxGeometry x="60" y="-840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O-Kg7pe8ydQeIRBrNAin-6" value="Récits utilisateur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="O-Kg7pe8ydQeIRBrNAin-1" vertex="1">
+          <mxGeometry x="60" y="-400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-1" value="S&#39;authentifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="50" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-3" value="Se connecter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="50" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-4" value="S&#39;inscrire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="50" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-5" value="Signaler un soucis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="250" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-6" value="Visualiser les notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="450" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-7" value="Envoyer un formulaire de soucis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="250" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-8" value="Visualiser son profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="450" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-9" value="Se connecter en tant qu&#39;utilisateur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="50" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-10" value="Accéder au formulaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="250" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-11" value="Remplir le formulaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="250" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-12" value="Confirmer l&#39;envoi du formulaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="250" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-13" value="Accéder au profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="450" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YOwnEV4_zntxY6s3JS-14" value="Visualiser les notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O-Kg7pe8ydQeIRBrNAin-1">
+          <mxGeometry x="450" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Story map 2" id="y9Ebn-rohBB7it8S03n6">
+    <mxGraphModel dx="838" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="X_87lOt8fvcMisKSviIy-0" />
+        <mxCell id="X_87lOt8fvcMisKSviIy-1" parent="X_87lOt8fvcMisKSviIy-0" />
+        <mxCell id="X_87lOt8fvcMisKSviIy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="X_87lOt8fvcMisKSviIy-1" vertex="1">
+          <mxGeometry x="3" y="-1169" width="820" height="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="X_87lOt8fvcMisKSviIy-3" value="Persona: Bobby, travailleur dans la construction" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="X_87lOt8fvcMisKSviIy-1" vertex="1">
+          <mxGeometry x="30" y="-1150" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_87lOt8fvcMisKSviIy-4" value="Objectifs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="X_87lOt8fvcMisKSviIy-1" vertex="1">
+          <mxGeometry x="50" y="-1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_87lOt8fvcMisKSviIy-5" value="Épopées" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="X_87lOt8fvcMisKSviIy-1" vertex="1">
+          <mxGeometry x="60" y="-840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_87lOt8fvcMisKSviIy-6" value="Récits utilisateur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="X_87lOt8fvcMisKSviIy-1" vertex="1">
+          <mxGeometry x="60" y="-400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x5XKih7oAPSpFJACIZs3-0" value="S&#39;authentifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="50" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45hbJDL7-SAHVzbrNabd-0" value="Se connecter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="50" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45hbJDL7-SAHVzbrNabd-1" value="S&#39;inscrire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="50" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDB5EbyMk9r7GzVW_8U1-0" value="Se connecter en tant qu&#39;utilisateur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="50" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DGCJ0lfHsz6vz_xTCHyj-0" value="Créer un évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="240" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DGCJ0lfHsz6vz_xTCHyj-1" value="Visualiser les notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="430" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DGCJ0lfHsz6vz_xTCHyj-2" value="Visualiser mon évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="620" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3so6oCWDTQ9-Y9TB1Qil-0" value="Envoyer un formulaire de création d&#39;évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="240" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYRSoR72hJkDnNLJLkWC-0" value="Accéder au formualire de créati&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Envoyer%20un%20formulaire%20de%20cr%C3%A9ation%20d&#39;%C3%A9v%C3%A8nement%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22-810%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;on d&#39;évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="240" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tnvWjSCrFhbB0y4Zqs8-0" value="Remplir le formulaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="240" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tnvWjSCrFhbB0y4Zqs8-1" value="Envoyer le formulaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="240" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6tnvWjSCrFhbB0y4Zqs8-2" value="Visualiser son profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="430" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5lFgguDwDhgVKxp0dov-0" value="Accéder au profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="430" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UqN_BJrjo_rw_G08SNbB-0" value="Visualiser les notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="430" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-8itjDxeMTaXktestE7-0" value="Accéder à mon évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X_87lOt8fvcMisKSviIy-1">
+          <mxGeometry x="620" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Story map 3" id="JVDuU39HXCpBm16vmbnC">
+    <mxGraphModel dx="1042" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OhYoDZexVgJpQMNoXjik-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3" y="-1169" width="820" height="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="OhYoDZexVgJpQMNoXjik-1" value="Persona: Julie, mère de famille" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-1150" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OhYoDZexVgJpQMNoXjik-5" value="Objectifs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OhYoDZexVgJpQMNoXjik-6" value="Épopées" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OhYoDZexVgJpQMNoXjik-7" value="Récits utilisateur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-400" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Story map 4" id="emywmYM47dt1FsA0NRPr">
+    <mxGraphModel dx="1042" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2JziTj5N0vPgPluk7cRE-0" />
+        <mxCell id="2JziTj5N0vPgPluk7cRE-1" parent="2JziTj5N0vPgPluk7cRE-0" />
+        <mxCell id="2JziTj5N0vPgPluk7cRE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="2JziTj5N0vPgPluk7cRE-1" vertex="1">
+          <mxGeometry x="3" y="-1169" width="820" height="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="2JziTj5N0vPgPluk7cRE-3" value="Persona: Lucien, employé au service téléphonique municipal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="2JziTj5N0vPgPluk7cRE-1" vertex="1">
+          <mxGeometry x="30" y="-1140" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2JziTj5N0vPgPluk7cRE-4" value="Objectifs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="2JziTj5N0vPgPluk7cRE-1" vertex="1">
+          <mxGeometry x="50" y="-1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2JziTj5N0vPgPluk7cRE-5" value="Épopées" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="2JziTj5N0vPgPluk7cRE-1" vertex="1">
+          <mxGeometry x="60" y="-840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2JziTj5N0vPgPluk7cRE-6" value="Récits utilisateur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="2JziTj5N0vPgPluk7cRE-1" vertex="1">
+          <mxGeometry x="60" y="-400" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
